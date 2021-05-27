@@ -1,0 +1,13 @@
+{
+    "arch": ["mlp"],
+    "dataset": ["MNIST","SVHN","CIFAR10"],
+    "nlayers": [1],
+    "width": [64,256],
+    "batchsize": [1024],
+    "lr": [0.01],
+    "lr_scheduler": [0],
+    "epochs": [1000],
+    "stopcond": [0.01],
+    "seed": [10,2,1]
+}
+

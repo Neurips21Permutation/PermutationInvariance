@@ -1,0 +1,14 @@
+torch==1.7.0
+torchvision==0.8.0
+tensorboard
+torchtext==0.4.0
+Pillow==6.2.2
+crcmod
+scipy
+wget
+pandas
+google-cloud-storage
+simanneal
+torch-summary
+matplotlib
+

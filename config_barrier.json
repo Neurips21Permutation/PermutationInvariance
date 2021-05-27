@@ -1,0 +1,14 @@
+[{
+    "arch": ["s_conv"],
+    "dataset": ["MNIST", "SVHN", "CIFAR10", "CIFAR100"],
+    "nlayers": [4,6,8],
+    "width": [1024],
+    "batchsize": [1024],
+    "tmax":[10000],
+    "tmin":[0.00001],
+    "steps":[50000],
+    "pair": [10]
+}
+]
+
+
