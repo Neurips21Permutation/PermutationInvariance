@@ -1,4 +1,4 @@
-This folder includes new plots requested by reviewers.
+Here are the updated plots requested by Neurips Reviewers
 
 ![alt text](https://github.com/Neurips21Permutation/PermutationInvariance/blob/main/Rebuttal/Fig1.png)
 ![alt text](https://github.com/Neurips21Permutation/PermutationInvariance/blob/main/Rebuttal/Fig2.png)
