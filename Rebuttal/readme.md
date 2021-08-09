@@ -1,6 +1,6 @@
 Here are the updated plots requested by Neurips Reviewers
 
-![alt text](https://github.com/Neurips21Permutation/PermutationInvariance/blob/main/Rebuttal/Fig1.png)
+![alt text](https://github.com/Neurips21Permutation/PermutationInvariance/blob/main/Rebuttal/Fig1_new.png)
 ![alt text](https://github.com/Neurips21Permutation/PermutationInvariance/blob/main/Rebuttal/Fig2.png)
 ![alt text](https://github.com/Neurips21Permutation/PermutationInvariance/blob/main/Rebuttal/Fig3.png)
 ![alt text](https://github.com/Neurips21Permutation/PermutationInvariance/blob/main/Rebuttal/Fig4.png)
